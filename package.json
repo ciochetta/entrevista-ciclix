@@ -1,0 +1,27 @@
+{
+  "name": "entrevista-ciclix",
+  "version": "1.0.0",
+  "description": "repositório para a entrevista da ciclix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciochetta/entrevista-ciclix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciochetta/entrevista-ciclix/issues"
+  },
+  "homepage": "https://github.com/ciochetta/entrevista-ciclix#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.4.2",
+    "firebase-functions": "^3.13.1"
+  }
+}
